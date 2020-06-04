@@ -1,0 +1,8 @@
+set(sources ${sources} 
+Src/Main.cpp 
+Src/Private/Game.cpp 
+Src/Private/pch.cpp 
+Src/Public/Game.h 
+Src/Public/pch.h 
+Src/Public/StepTimer.h 
+) 
